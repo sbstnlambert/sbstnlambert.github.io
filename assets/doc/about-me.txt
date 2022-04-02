@@ -1,0 +1,56 @@
+// FR
+
+Je me suis consacré au secteur social pendant 10 ans.
+A la fois en tant que travailleur social et sociologue.
+
+En 2021, j'ai pris la décision de réorienter ma trajectoire professionnelle afin de me consacrer au domaine qui, depuis mon adolescence, m'avait toujours fasciné : le vaste monde de l'IT.
+
+À ce jour,
+Je m'initie à la programmation.
+Je découvre l'industrie du logiciel.
+Et voici mes impressions.
+
+Plus j'apprends, plus je suis impressionné par la diversité des technologies existantes ainsi que par le nombre d'outils et concepts associés à celles-ci.
+Langages de programmation, frameworks, bibliothèques et APIs, fonctionnalités, IDEs, etc.
+Chacun de ces outils possède également ses propres outils... et ainsi de suite.
+Tout un monde n'attend qu'à être exploré. Il est tentant de s'y plonger à corps perdu et de vouloir rapidement utiliser un maximum de ces précieux jouets.
+
+Or, au plus je découvre l'existence de ces technologies à un rythme effréné, au plus je ressens le besoin et la nécessité de travailler en profondeur ma compréhension des concepts fondamentaux englobant ces outils.
+En effet, je pense que travailler assidûment ma logique algorithmique ainsi que mon aisance quant aux concepts de la POO (encapsulation, héritage, polymorphisme, association, composition, etc.) est une condition importante pour réellement apprécier l'exploration des différents outils précités de manière structurée et créactive.
+
+Je constaste que, en Java, cet apprentissage méticuleux est nécessaire pour utiliser à leur plein potentiel les notions et outils applicables à ce langage, tels que Java Data (Spring Data JPA / Hibernate), Java Web (Spring MVC / JAX-RS / JAX-WS / Spring Boot), Spring Cloud, les tests unitaires, le test-driven development, la bonne utilisation des design patterns, les microservices, etc.
+
+Finalement, je crois que la pratique régulière, la passion et l'humilité sont des attitudes précieuses pour aborder un tel domaine.
+
+Assez parlé. Il est temps de coder !
+
+A bientôt.
+
+// EN
+
+I dedicated myself to the social sector for 10 years.
+Both as a social worker and a sociologist.
+
+In 2021, I made the decision to retrain my career path in order to devote myself to the field which, since my teenage years, had always fascinated me: the vast world of IT.
+
+Nowadays,
+I am learning programming.
+I am discovering the software industry.
+And here are my impressions.
+
+The more I learn, the more I am impressed by the diversity of existing technologies as well as by the number of tools and concepts related to them.
+Programming languages, frameworks, libraries and APIs, features, IDEs, etc.
+Each of these tools also has its own tools... and so on.
+A whole world is just waiting to be explored. It's tempting to dive right into it and to quickly use as many of these precious toys as possible.
+
+However, the more I learn about the existence of these technologies at a fast pace during my training course, the more I feel the necessity to work in depth on my understanding of the fundamental concepts encompassing these tools.
+Indeed, I think that working diligently on my algorithmic logic as well as my ease with the OOP concepts (encapsulation, inheritance, polymorphism, association, composition, etc.) is an important condition for really appreciating the exploration of the various aforementioned tools in a structured and creative way.
+
+I note that, in Java, this meticulous learning is necessary to use to their full potential the notions and tools applicable to this language, such as Java Data (Spring Data JPA / Hibernate), Java Web (Spring MVC / JAX-RS / JAX -WS / Spring Boot), Spring Cloud, unit testing, test-driven development, proper use of design patterns, microservices, etc.
+
+Finally, I believe that regular practice, passion and humility are valuable attitudes for approaching such a field.
+
+Well, that's enough talk for now.
+Time to code!
+
+See you soon!
