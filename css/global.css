@@ -727,7 +727,10 @@ a > h3:hover {
     color: #0d0d0d;
     font-weight: 700;
     text-decoration: none;
-    transition: color 350ms ease;
+}
+
+.project-cta-link-wrapper:hover {
+    color: #686868;
 }
 
 @media screen and (min-width: 1920px) {
@@ -743,7 +746,6 @@ a > h3:hover {
     font-size: 20px;
     line-height: 22px;
     font-weight: 700;
-    transition: color 350ms ease;
 }
 
 @media screen and (min-width: 1920px) {
@@ -751,11 +753,6 @@ a > h3:hover {
         font-size: 28px;
         line-height: 32px;
     }
-}
-
-.project-cta-link-text:hover {
-    color: #686868;
-
 }
 
 .project-cta-circle-link {
@@ -776,7 +773,10 @@ a > h3:hover {
     width: 40px;
     height: 40px;
     margin-left: 20px;
-    transition: color 350ms ease;
+}
+
+.project-cta-link-wrapper:hover .project-cta-circle-link {
+    border-color: #686868;
 }
 
 .project-cta-arrow-wrap {
@@ -797,6 +797,10 @@ a > h3:hover {
     border-left: 10px solid #0d0d0d;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
+}
+
+.project-cta-link-wrapper:hover .project-cta-arrow {
+    border-left-color: #686868;
 }
 
 /* ABOUT ME SECTION */
